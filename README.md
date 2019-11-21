@@ -5,6 +5,8 @@ This is either the easiest or most difficult homework yet.
 
 For this homework assignment, I need you to describe your intended final project to me. Include any intended data sources, sketches, and ask questions if needed.
 
+----------------------------------------------------------------------------------------------------------------
+
 Final Project Idea:
 
 An app that can separate audio sources into separate tracks.
