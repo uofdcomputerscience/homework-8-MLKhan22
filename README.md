@@ -18,9 +18,11 @@ Hopefully, I will be able to make use of CoreML in
 order to implement this.
 
 Audio Datasets for training a model:
+
 https://research.google.com/audioset/index.html
 https://github.com/roudimit/MUSIC_dataset
 
 After doing some searching, these seem like things that describe what I'm trying to do:
+
 https://audionamix.com/
 http://sound-of-pixels.csail.mit.edu/
